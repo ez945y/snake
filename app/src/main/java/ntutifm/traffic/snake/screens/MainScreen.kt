@@ -68,6 +68,7 @@ fun MainScreen(
                         modifier = Modifier.padding(top = 3.dp, start = 10.dp))
                     Text(text = "$string1 X $string2",
                         modifier = Modifier.padding(start = 50.dp, end = 10.dp))
+
                 }
             }
         }
