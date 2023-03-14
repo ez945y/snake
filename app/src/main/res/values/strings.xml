@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">snake</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiZXo5NDV5IiwiYSI6ImNsZjR3Y3BrODE2bWkzem56Ym93NHdyZ3MifQ.Qrq6wnk2RDKITHaYxsu2KA</string>
+
 </resources>
